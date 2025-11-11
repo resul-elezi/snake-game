@@ -391,6 +391,20 @@ html {
     background-color: var(--theme-background);
 }
 
+body {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border: 1px solid var(--theme-stroke);
+    box-shadow: inset 0 2px rgba(255, 255, 255, .3);
+    backdrop-filter: blur(64px);
+    -webkit-backdrop-filter: blur(64px);
+}
+
 /* ==========================================================================
      Helper classes
      ========================================================================== */
