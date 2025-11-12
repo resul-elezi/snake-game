@@ -404,11 +404,11 @@ body {
     opacity: .7;
     background:
         radial-gradient(circle at top left, #164C51 15%, #0D3A40 100%),
-        linear-gradient(128deg, #175553 0%, rgba(67, 217, 173, 0.13) 100%),
+        linear-gradient(-28deg, #175553 0%, rgba(67, 217, 173, 0.13) 100%),
         radial-gradient(circle, #196C6A 15%, #114B4A 100%),
         radial-gradient(circle, #217D7A 15%, #114B4A 100%),
         radial-gradient(circle, #234B7C 15%, #122E4F 100%),
-        linear-gradient(128deg, #43D9AD 0%, rgba(67, 217, 173, 0) 100%);
+        linear-gradient(-28deg, #43D9AD 0%, rgba(67, 217, 173, 0) 100%);
     /* radial-gradient(circle at top left, #196C6A 15%, #114B4A 100%),
         radial-gradient(circle at top left, #217D7A 15%, #114B4A 100%),
         radial-gradient(circle at top left, #234B7C 15%, #122E4F 100%),
