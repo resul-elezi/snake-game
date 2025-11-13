@@ -435,6 +435,11 @@ body {
     background: var(--primitive-slate-800);
 }
 
+.start-btn {
+    background: var(--primary-background);
+    border: none;
+}
+
 .infos-div {
     flex: 2;
 }
