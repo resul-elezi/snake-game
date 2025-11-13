@@ -260,13 +260,14 @@
     --spacing-01: .125rem;
     --spacing-02: .25rem;
     --spacing-03: .5rem;
-    --spacing-04: .75rem;
-    --spacing-05: 1rem;
-    --spacing-06: 1.5rem;
-    --spacing-07: 2rem;
-    --spacing-08: 2.5rem;
-    --spacing-09: 3rem;
-    --spacing-10: 4rem;
+    --spacing-04: .625rem;
+    --spacing-05: .75rem;
+    --spacing-06: 1rem;
+    --spacing-07: 1.5rem;
+    --spacing-08: 2rem;
+    --spacing-09: 2.5rem;
+    --spacing-10: 3rem;
+    --spacing-11: 4rem;
 
     --button-top-bottom: .625rem;
     --button-left-right: .75rem;
@@ -438,7 +439,7 @@ body {
 .start-btn {
     background: var(--primary-background);
     border: none;
-    padding: var(--spacing-04) var(--spacing-05);
+    padding: var(--spacing-03) var(--spacing-04);
 }
 
 .infos-div {
