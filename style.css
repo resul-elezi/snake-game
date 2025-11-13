@@ -421,7 +421,7 @@ body {
 }
 
 .bolts-top,
-.bolds-bottem {
+.bolts-bottom {
     display: flex;
     justify-content: space-around;
 }
