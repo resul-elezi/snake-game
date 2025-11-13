@@ -439,12 +439,13 @@ body {
 
 .start-btn {
     font-family: 'Fira Code';
+    font-size: var(--font-size-sm);
+    line-height: var(--line-height-sm);
     background: var(--primary-background);
     padding: var(--spacing-04) var(--spacing-05);
     border: none;
     border-radius: var(--radius-03);
-    font-size: var(--font-size-sm);
-    line-height: var(--line-height-sm);
+    color: var(--primary-inverted);
 }
 
 .infos-div {
