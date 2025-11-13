@@ -390,6 +390,7 @@ textarea {
 
 html {
     background-color: var(--theme-background);
+    font-family: 'Fira Code';
 }
 
 body {
@@ -437,10 +438,13 @@ body {
 }
 
 .start-btn {
+    font-family: 'Fira Code';
     background: var(--primary-background);
     padding: var(--spacing-04) var(--spacing-05);
     border: none;
     border-radius: var(--radius-03);
+    font-size: var(--font-size-sm);
+    line-height: var(--line-height-sm);
 }
 
 .infos-div {
