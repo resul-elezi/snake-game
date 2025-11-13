@@ -426,6 +426,7 @@ body {
 .bolts-bottom {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .game-board {
