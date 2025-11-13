@@ -432,6 +432,7 @@ body {
 .game-board {
     flex: 2;
     border-radius: var(--radius-03);
+    background: var(--primitive-slate-800);
 }
 
 .infos-div {
