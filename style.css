@@ -444,7 +444,7 @@ body {
     font-size: var(--font-size-sm);
     line-height: var(--line-height-sm);
     background: var(--primary-background);
-    margin-bottom: 3rem;
+    margin-block: 20rem 3rem;
     padding: var(--spacing-04) var(--spacing-05);
     border: none;
     border-radius: var(--radius-03);
