@@ -431,12 +431,12 @@ body {
     align-items: center;
 }
 
-.game-board {
+#game-board {
     flex: 2;
     width: 14.9181rem;
     height: 25.3325rem;
     border-radius: var(--radius-03);
-    background: var(--primitive-slate-800);
+    background-color: var(--primitive-slate-800);
 }
 
 .start-btn {
@@ -444,6 +444,7 @@ body {
     font-size: var(--font-size-sm);
     line-height: var(--line-height-sm);
     background: var(--primary-background);
+    margin-bottom: 3rem;
     padding: var(--spacing-04) var(--spacing-05);
     border: none;
     border-radius: var(--radius-03);
