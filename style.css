@@ -433,6 +433,8 @@ body {
 
 .game-board {
     flex: 2;
+    width: 14.9181rem;
+    height: 25.3325rem;
     border-radius: var(--radius-03);
     background: var(--primitive-slate-800);
 }
