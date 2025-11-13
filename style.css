@@ -402,6 +402,7 @@ body {
     width: 31.6681rem;
     height: 29.3325rem;
     padding: var(--spacing-04);
+    display: flex;
     background:
         radial-gradient(circle at top left, #164C51 15%, #0D3A40 100%),
         linear-gradient(118deg, #175553 0%, rgba(67, 217, 173, 0.13) 100%),
