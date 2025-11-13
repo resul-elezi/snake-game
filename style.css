@@ -438,8 +438,9 @@ body {
 
 .start-btn {
     background: var(--primary-background);
-    border: none;
     padding: var(--spacing-04) var(--spacing-05);
+    border: none;
+    border-radius: var(--radius-03);
 }
 
 .infos-div {
