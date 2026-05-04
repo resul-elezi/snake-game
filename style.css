@@ -52,7 +52,8 @@
 
     /* Gradients */
 
-    --first-gradient: linear-gradient(152deg, #175553 0%, rgba(67, 217, 173, 13%) 50%);
+    /* --first-gradient: linear-gradient(152deg, #175553 0%, rgba(67, 217, 173, 13%) 50%); */
+    --first-gradient: linear-gradient(162deg, #175553 0%, rgba(67, 217, 173, 0.13) 100%);
     --first-radial: radial-gradient(circle farthest-corner at 10% 10%, #164C51 15%, #0D3A40 50%);
     --sec-radial: radial-gradient(circle farthest-corner at 10% 10%, #196C6A 15%, #114B4A 50%);
     --third-radial: radial-gradient(circle farthest-corner at 10% 10%, #217D7A 15%, #114B4A 50%);
