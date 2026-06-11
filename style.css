@@ -453,6 +453,7 @@ body {
 
 
 .start-btn {
+    /* display: none; */
     font-family: 'Fira Code';
     font-size: var(--font-size-sm);
     line-height: var(--line-height-sm);
