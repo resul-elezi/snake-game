@@ -441,6 +441,7 @@ body {
 
 #game-board {
     flex: 2;
+    text-align: center;
     width: 14.9181rem;
     height: 25.3325rem;
     border-radius: var(--radius-03);
@@ -456,6 +457,7 @@ body {
     font-size: var(--font-size-sm);
     line-height: var(--line-height-sm);
     background: var(--primary-background);
+    margin-inline: 0 auto;
     margin-block: 20rem 3rem;
     padding: var(--spacing-04) var(--spacing-05);
     border: none;
