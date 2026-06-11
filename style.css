@@ -451,7 +451,7 @@ body {
     box-shadow: inset 1px 5px 11px rgba(2, 18, 27, .71);
 }
 
-
+/* TODO: Frame 4 in Snake Game (Figma file) */
 .start-btn {
     /* display: none; */
     font-family: 'Fira Code';
